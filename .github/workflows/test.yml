@@ -1,4 +1,4 @@
-name: Run Unit Test via Pytest N
+name: Running the Action via Pytest
 
 on: [push]
 
